@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  CartotypeWhirlyNew
+
+  Created by John Kokkinidis on 10/7/13.
+  Copyright (c) 2013 mousebird consulting. All rights reserved.
+*/
+
+
+
+"turnNone" = "";
+"turnAhead" = "Keep ahead.";
+"turnBearRight" = "Bear right.";
+"turnRight" = "Turn right";
+"turnSharpRight" = "Turn sharp right.";
+"turnAround" = "Turn around";
+"turnSharpLeft" = "Turn sharp left";
+"turnLeft" = "Turn left";
+"turnBearLeft" = "Bear left";
+
+
+
+
+
+
+
+
+
